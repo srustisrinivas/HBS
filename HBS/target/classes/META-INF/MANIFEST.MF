@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HBS
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: M1049114
+Implementation-Vendor-Id: com.srusti
+Build-Jdk: 1.8.0_102
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/HBS
+Created-By: Maven Integration for Eclipse
+
